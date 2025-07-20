@@ -45,4 +45,4 @@
 - 写真や動画を撮って比較資料に（QRコードで添付も可能）
 - 解説書で「工夫点・試行錯誤・改良の流れ」を記述すると高評価につながります！
 
-
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>

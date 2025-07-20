@@ -58,4 +58,4 @@
 - [募集要項](募集要項.md)
 - [実施要項](実施要項.md)
 - [R6年度結果](R6年度結果.md)
-
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
